@@ -88,5 +88,15 @@
     "id":100,
     "title":"Sell Your Photos Online & Earn $5 per One by DOG",
     "code":"AUCTION"
+  },
+  {
+    "id":104,
+    "title":"Top 5 Jobs That Let You Travel The World by CAT",
+    "code":"AUDIT"
+  },
+  {
+    "id":105,
+    "title":"Top 5 Jobs That Let You Travel The World by DOG",
+    "code":"DEFLATION"
   }
 ]
